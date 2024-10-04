@@ -39,7 +39,7 @@ Example Entries are as follows:
  ## Citation
 If you use this dataset in your research, please cite it as follows:
 
-Rose, S., Dethlefs, N., Kambhampati, C., 2024. One-Vs-Rest Neural Network English Grapheme Segmentation: A Linguistic Perspective, Proceedings of the 28th Conference on Computational Natural Language Learning (CoNLL). Presented at the CoNLL 2028, Association for Computational Linguistics, Miami, pp. ___-___. DOI HERE
+Rose, S., Kambhampati, C., Dethlefs, N., 2024. One-Vs-Rest Neural Network English Grapheme Segmentation: A Linguistic Perspective, Proceedings of the 28th Conference on Computational Natural Language Learning (CoNLL). Presented at the CoNLL 2028, Association for Computational Linguistics, Miami, pp. ___-___. DOI HERE
 
 ## Licensing
 This dataset is licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt the material for any purpose, even commercially, as long as you provide appropriate credit to the original source.
