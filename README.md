@@ -48,5 +48,7 @@ This dataset is licensed under the Creative Commons Attribution 4.0 Internationa
 For inquiries or feedback regarding the dataset, please contact:
 
 Name: Samuel Rose
+
 Email: s.p.rose-2017@hull.ac.uk
+
 Institution: University of Hull
